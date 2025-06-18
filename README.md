@@ -36,7 +36,6 @@ New model versions or experiments can be quickly trained, tested, and deployed i
 
 As the ML project grows in size and complexity, managing the entire lifecycle manually becomes impractical. CI/CD pipelines provide a scalable solution that can handle large volumes of data, numerous models, and diverse dependencies while maintaining efficiency and reliability.
 
-Below is a visual representation of the approach followed in this module. 
+Below is the link to the datacamp tutorial with detailed explanation. 
 
-https://media.datacamp.com/legacy/v1708084412/image18_eba583bf37.png![image](https://github.com/user-attachments/assets/e6999e6c-f1b0-4821-8f87-771e5bd46023)
-
+https://www.datacamp.com/tutorial/ci-cd-for-machine-learning
